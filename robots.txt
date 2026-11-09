@@ -1,0 +1,5 @@
+# robots.txt for Your Realty
+User-agent: *
+Allow: /
+
+Sitemap: https://9168503030.com/sitemap.xml
